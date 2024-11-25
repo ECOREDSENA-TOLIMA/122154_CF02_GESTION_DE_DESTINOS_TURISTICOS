@@ -271,7 +271,7 @@
             img(src='@/assets/curso/temas/tema1/img15.svg', alt='En la figura 4, se presenta la estructura organizacional del Instituto Distrital de Turismo (IDT) en Bogotá, incluyendo todas las dependencias que la componen.')
             figcaption Nota. Adaptado de Instituto Distrital de Turismo – IDT (2022). Estructura Organizacional del Instituto Distrital de Turismo – IDT. Alcaldía Mayor de Bogotá Distrito Capital. Tomado de https://www.idt.gov.co/es/estructura-organica
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.col-12
         .bloque-texto-f.color-primario.pt-4.px-5.mb-5
           .bloque-texto-f__comillas
