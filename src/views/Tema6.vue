@@ -174,9 +174,142 @@
           p La convocatoria es un llamado público dirigido a la comunidad en general, con el objetivo de fomentar una participación equitativa en diversas oportunidades que se ofrecen para los territorios. Este proceso culmina con un conjunto de responsabilidades para aquellos que resultan seleccionados. 
         p En el ámbito del turismo, las convocatorias surgen como una estrategia para promover la apropiación y el empoderamiento de los habitantes locales en temas relacionados con el sector. Este tipo de convocatorias, dirigidas a las organizaciones de base comunitaria, busca fortalecer la cadena de valor del turismo mediante proyectos y emprendimientos que requieren una serie de documentos, y en algunos casos trabajos de prueba, los cuales son evaluados durante un periodo determinado.
 
+    .tarjeta.tarjeta--BG05.p-4.mb-5(data-aos="flip-up")
+      p.mb-4 El propósito de estas convocatorias es mejorar la prestación del servicio turístico local, empleando buenas prácticas de sostenibilidad y ofreciendo estímulos y activos productivos que contribuyan al desarrollo de planes de trabajo. Estos planes buscan fortalecer las habilidades y capacidades de las personas encargadas de atender a los turistas. 
+      p.mb-5 Las convocatorias de participación comunitaria se clasifican según el procedimiento de selección en las siguientes categorías:
+      .row.justify-content-center.align-items-center
+        .col-lg-10.col-12
+          .row.justify-content-center.align-items-center
+            .col-lg-8.col-12.order-lg-1.order-2
+              ul.lista-ul
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Abiertas</b>: cualquier persona puede participar.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Cerradas</b>: se convoca a un grupo específico de personas.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Ordinarias</b>: dirigidas a tratar temas habituales.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Extraordinarias</b>: para abordar situaciones especiales o urgentes.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Anticipadas</b>: se convocan entre un mes y quince días antes del evento.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Extraoficiales</b>: son convocatorias de emergencia.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Nacionales</b>: abiertas a todos los ciudadanos del país.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Internacionales</b>: trascienden fronteras, llamando a la participación global.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Oficiales</b>: (específicas y generales): realizadas por autoridades o representantes de instituciones o asociaciones.
+                li 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Privadas</b>: invitación directa a un oferente calificado previamente seleccionado.
+            .col-lg-4.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema6/img15.png', alt='Imagen decorativa')
+
+    p.mb-5(data-aos="fade-left") Además, las convocatorias de participación comunitaria se clasifican según las oportunidades locales en:
+
+    .row.mb-5(data-aos="flip-up")
+      .col-lg-6.mb-5
+        .tarjeta-avatar-b
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema6/img16.svg' alt='AvatarTop')
+          .tarjeta.color5(style= "width: 100%")
+            .p-4
+              h2 Banco de proyectos
+              p Dirigida a fortalecer e incentivar iniciativas productivas presentadas por cooperativas, fondos de empleados o asociaciones mutuales dentro de las comunidades.
+      .col-lg-6.mb-5
+        .tarjeta-avatar-b
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema6/img17.svg' alt='AvatarTop')
+          .tarjeta.color5(style= "width: 100%")
+            .p-4
+              h2 Fondo de incentivos
+              p Se otorgan incentivos para fortalecer prácticas económicas, ambientales y sociales dentro de las comunidades.
+              br
+
+    p.mb-5(data-aos="fade-left") También, las convocatorias se clasifican según la modalidad de la convocatoria para la economía popular:
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/img18.svg' alt="Imagen decorativa")
+          .tarjetas-upper_card
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h5.mb-0  Modalidad 1
+            p.text-center.mb-0.px-2 Iniciativas individuales y familiares de economía popular.
+
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/img19.svg' alt="Imagen decorativa")
+          .tarjetas-upper_card
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h5.mb-0  Modalidad 2
+            p.text-center.mb-0.px-2 Iniciativas comunitarias, como juntas de acción comunal y juntas barriales, conformadas por al menos 10 personas.
+
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/img20.svg' alt="Imagen decorativa")
+          .tarjetas-upper_card
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-2
+                i.fas.fa-caret-down.fa-2x.me-2
+              h5.mb-0  Modalidad 3
+            p.text-center.mb-0.px-2 Iniciativas productivas de economía solidaria, que incluyen asociaciones, cooperativas y organizaciones de productores, conformadas por un mínimo de 15 personas.
+
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/img21.svg' alt="Imagen decorativa")
+          .tarjetas-upper_card
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h5.mb-0  Modalidad 4
+            p.text-center.mb-0.px-2 Iniciativas productivas robustas de economía solidaria, que estén comercializando un producto o servicio, cuenten con al menos 20 asociados y dos años de antigüedad.
+
+
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.3 Tipos de participación comunitaria
+
+    p.mb-4(data-aos="fade-left") El desarrollo comunitario busca mejorar las condiciones de vida en una comunidad, fomentando relaciones interpersonales que surgen en torno a problemáticas comunes y la búsqueda de soluciones a través de proyectos turísticos enfocados en mejorar la situación local. El objetivo principal es el bienestar de los miembros de la comunidad, destacando los valores y principios derivados de sus tradiciones e idiosincrasia.
+    p.mb-5(data-aos="fade-left") En este contexto, se articula la participación de diversos actores en los procesos que buscan el desarrollo humano de manera sostenible y socialmente responsable. A continuación, se describen algunos de los mecanismos clave para alcanzar objetivos colectivos: 
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+      .col-lg-10.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-7.col-12.mb-md-0.order-lg-1.order-2
+            LineaTiempoD.color-acento-botones.especial
+              p(numero="1" titulo="Asociatividad") Es un mecanismo de colaboración que permite a los miembros de la comunidad organizarse en torno a un objetivo y un beneficio común. Los principios de solidaridad, colaboración y trabajo en comunidad se aplican para mejorar la productividad local y las condiciones de vida. Esto se logra mediante la competitividad, sostenibilidad y el desarrollo social integral.
+              
+              p(numero="2" titulo="Cooperativismo") Este modelo socioeconómico promueve la unión voluntaria de personas que trabajan juntas de manera equitativa y democrática para satisfacer sus necesidades y aspiraciones comunes en los ámbitos económico, social y cultural. A través de una empresa de propiedad conjunta y un manejo democrático, los miembros se benefician mutuamente y fortalecen su cohesión social.
+              
+              p(numero="3" titulo="Autogestión") Es una forma de acción colectiva en la que la comunidad resuelve sus problemáticas de manera conjunta. Implica la solidaridad y el trabajo en equipo para lograr el desarrollo sostenible a nivel local. este enfoque refuerza tanto el crecimiento individual como el colectivo, promoviendo un pensamiento y acción orientados al bienestar común.
+          .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema6/img22.png', alt='Imagen decorativa')
+                  
 
 </template>
 
