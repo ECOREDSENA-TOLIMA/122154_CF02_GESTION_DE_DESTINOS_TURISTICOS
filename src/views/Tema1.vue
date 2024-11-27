@@ -34,9 +34,9 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema1/img03.svg', alt='En la figura 1 se presentan los organismos vinculados a la superestructura turística, encargados de regular, fomentar y coordinar actividades turísticas, culturales, recreativas y deportivas en los territorios.')
+            img(src='@/assets/curso/temas/tema1/img03.svg', alt='En la figura 1 se presentan los organismos asociados a la superestructura turística, responsables de regular, promover y coordinar actividades turísticas, culturales, recreativas y deportivas en los territorios. Entre ellos se encuentran ONU Turismo, UNESCO, IATA, WATA, UFTAA, el Ministerio de Comercio, Industria y Turismo, CTUR, la Secretaría de Turismo y Cultura Departamental, el Instituto Distrital de Turismo, FONTUR Colombia, Artesanías de Colombia, ProColombia, Bancoldex y Fiducoldex.')
           figure.movil
-            img(src='@/assets/curso/temas/tema1/img04.svg', alt='En la figura 1 se presentan los organismos vinculados a la superestructura turística, encargados de regular, fomentar y coordinar actividades turísticas, culturales, recreativas y deportivas en los territorios.')
+            img(src='@/assets/curso/temas/tema1/img04.svg', alt='En la figura 1 se presentan los organismos asociados a la superestructura turística, responsables de regular, promover y coordinar actividades turísticas, culturales, recreativas y deportivas en los territorios. Entre ellos se encuentran ONU Turismo, UNESCO, IATA, WATA, UFTAA, el Ministerio de Comercio, Industria y Turismo, CTUR, la Secretaría de Turismo y Cultura Departamental, el Instituto Distrital de Turismo, FONTUR Colombia, Artesanías de Colombia, ProColombia, Bancoldex y Fiducoldex.')
 
 
     p.mb-5(data-aos="fade-left") Por otro lado, el sector privado agrupa instituciones que representan a diferentes empresarios relacionados con la actividad turística, tanto de manera directa como indirecta. Estos incluyen Cámaras de Comercio e Industria, asociaciones de hoteles, agencias de viajes y empresas de transporte, entre otros, como se presenta a continuación:
@@ -49,9 +49,9 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema1/img05.svg', alt='En la figura 2 se presentan los organismos del sector privado vinculados a la superestructura turística, que participan en la provisión y apoyo de servicios turísticos de manera directa e indirecta.')
+            img(src='@/assets/curso/temas/tema1/img05.svg', alt='En la figura 2 se muestran los organismos del sector privado vinculados a la superestructura turística, los cuales contribuyen de manera directa e indirecta a la provisión y apoyo de servicios turísticos. Entre estos organismos se encuentran ACODRÉS, ACOLAP, ACOLTÉS, ACOTUR, ADITT, ANATO, Asobares, Astiempo, IATA y Cotelco.')
           figure.movil
-            img(src='@/assets/curso/temas/tema1/img06.svg', alt='En la figura 2 se presentan los organismos del sector privado vinculados a la superestructura turística, que participan en la provisión y apoyo de servicios turísticos de manera directa e indirecta.')
+            img(src='@/assets/curso/temas/tema1/img06.svg', alt='En la figura 2 se muestran los organismos del sector privado vinculados a la superestructura turística, los cuales contribuyen de manera directa e indirecta a la provisión y apoyo de servicios turísticos. Entre estos organismos se encuentran ACODRÉS, ACOLAP, ACOLTÉS, ACOTUR, ADITT, ANATO, Asobares, Astiempo, IATA y Cotelco.')
 
     p.mb-5(data-aos="fade-left") Es importante mencionar la participación de instituciones del tercer sector social, como asociaciones ecologistas, sindicatos, sociedades de fomento y organizaciones no gubernamentales.
     p(data-aos="fade-left") En resumen, el sector público representa al gobierno, el sector privado al mercado y el tercer sector a la sociedad civil. Dentro de este subsistema, también se incluyen instituciones educativas, tanto de gestión pública como privada, que ofrecen capacitación en turismo a todos los niveles, así como centros de investigación y desarrollo tecnológico. En la medida en que la producción de conocimiento se vincule a las necesidades humanas, estos actores pueden adquirir una relevancia significativa dentro del sistema turístico.

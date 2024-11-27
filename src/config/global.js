@@ -277,7 +277,7 @@ export default {
     {
       termino: 'Consorcio turístico',
       significado:
-        'son asociaciones u organizaciones de marketing que vinculan agencias de viajes independientes de tamaño pequeño a mediano para aprovechar el poder adquisitivo y las oportunidades de comercialización.',
+        'son asociaciones u organizaciones de <em>marketing</em> que vinculan agencias de viajes independientes de tamaño pequeño a mediano para aprovechar el poder adquisitivo y las oportunidades de comercialización.',
     },
     {
       termino: 'Convenio',
@@ -287,7 +287,7 @@ export default {
     {
       termino: 'Enfoque <em>One Village</em>, <em>One Produc</em>',
       significado:
-        '“Un Pueblo, Un producto”, es una filosofía que invita a las personas que habitan un mismo territorio a buscar un objetivo común por el cual trabajar y así desarrollar su territorio y su comunidad.',
+        '“Un Pueblo, Un Producto”, es una filosofía que invita a las personas que habitan un mismo territorio a buscar un objetivo común por el cual trabajar y así desarrollar su territorio y su comunidad.',
     },
     {
       termino: 'Entidad sin ánimo de lucro',
@@ -360,7 +360,7 @@ export default {
     {
       referencia:
         'Egurrola, M., & Zarraga, I. (2019). Análisis de las cadenas de valor en el sector turístico: Un estudio comparativo de modelos.',
-      link: 'https://www.redalyc.org/articulo.oa?id=193570869009',
+      link: '',
     },
     {
       referencia:
