@@ -139,7 +139,6 @@
             figure
               img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen decorativa')
           .col-lg-7.order-lg-2.order-2
-            h5 Ley 300 de 1996. Artículo 1. Objeto.
             p La presente ley tiene por objeto el fomento, el desarrollo, la promoción y la regulación de la actividad turística y del recurso turismo mediante la determinación de los mecanismos necesarios para la creación, conservación, protección y aprovechamiento de los recursos y atractivos turísticos nacionales, resguardando el desarrollo sostenible y sustentable y la optimización de la calidad. Establece los mecanismos de participación y concertación de los sectores público y privado en la actividad.
 
       .py-3.py-md-4(titulo="Ley 1558")
@@ -148,7 +147,6 @@
             figure
               img(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen decorativa')
           .col-lg-7.order-lg-2.order-2
-            h5 Ley 1558 de 2012. Artículo 2. Importancia de la industria turística.
             p Modifica el Artículo 1 de la Ley 300 de 1996. Establece que el turismo es una industria esencial para el desarrollo del país y cumple una función social. Como industria, las tasas aplicables a los prestadores de servicios turísticos en materia impositiva serán las correspondientes a la actividad industrial o comercial, si resultan más favorables. El Estado le dará especial protección debido a su importancia para el desarrollo nacional. Principios rectores de la actividad turística:
             .row.justify-content-center
               .col-lg-6.col-md-6
@@ -201,7 +199,6 @@
             figure
               img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen decorativa')
           .col-lg-7.order-lg-2.order-2
-            h5 Ley 2068 de 2020. Artículo 1. Objeto.
             p Su propósito es fomentar la sostenibilidad e implementar mecanismos para la conservación, protección y aprovechamiento de los destinos y atractivos turísticos. Además, busca fortalecer la formalización y competitividad del sector y promover la recuperación de la industria turística a través de incentivos, fortalecimiento de la calidad y adopción de medidas que impulsen la transformación y las oportunidades del sector.
 
       .py-3.py-md-4(titulo="Artículo 287")
@@ -210,7 +207,6 @@
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
           .col-lg-7.order-lg-2.order-2
-            h5 Artículo 287. Constitución Política Colombiana.
             p Establece que las entidades territoriales gozan de autonomía para gestionar sus intereses dentro de los límites de la Constitución y la ley, y, en virtud de ello, tienen los siguientes derechos:
             ul.lista-ul
               li.mb-2 
