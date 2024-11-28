@@ -72,11 +72,11 @@
             caption Nota. Adaptado de Benseny, G. (s.f.).
             thead
               tr
-                th Público
-                th Privado
-                th Otros sectores
+                th(style="width:50%") Público
+                th(style="width:25%") Privado
+                th(style="width:25%") Otros sectores
             tbody
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>1. Información</b>: publicación y difusión de datos sobre atractivos y servicios turísticos, brindada en forma directa o indirecta a los turistas.
                 td <b>1.</b> Representación de los asociados en consejos o comisiones de turismo y recreación.
                 td <b>1.</b> Defensa del medio ambiente y protección de los escenarios prístinos de flora y fauna, a través de proyectos de conservación y desarrollo basados en la comunidad brindando fuerte apoyo al turismo sostenible.
@@ -84,7 +84,7 @@
                 td <b>2. Facilitación</b>: disposiciones, reglamentos, acuerdos y cualquier otro tipo de medidas dispuestas por los organismos públicos, tendientes a agilizar el ingreso, desplazamiento y egreso de los turistas y sus equipajes, así como a contribuir a incrementar el consumo de los servicios turísticos disponibles.
                 td <b>2.</b> Formulación de recomendaciones consensuadas con la administración turística sobre mejoras a implementar en el sector turístico-recreativo.
                 td <b>2.</b> Preservación de cuestiones étnicas y del espacio público.
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>3. Promoción</b>: publicidad, relaciones públicas institucionales y asistencia a eventos de comercialización para difundir los productos turísticos y acompañar campañas similares a cargo de la actividad privada, con la finalidad de estimular la demanda en los centros emisores.
                 td <b>3.</b> Realización de investigaciones sobre la temática de interés específico.
                 td <b>3.</b> Defensa de los derechos de los consumidores y calidad vida de la comunidad.
@@ -92,7 +92,7 @@
                 td <b>4. Fomento de inversiones</b>: a través de estudios técnicos, investigaciones, publicaciones, reglamentos, exenciones impositivas, créditos y disposiciones similares, establecidas por el sector público para promover la participación de la inversión privada en el desarrollo de la planta prestadora de servicios turísticos.
                 td <b>4.</b> Creación de un foro de debate y solución de problemas comunes a las empresas del sector que representan.
                 td <b>4.</b> Producción de servicios sociales, esparcimiento, deportes, cultura, educación y salud.
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>5. Contralor de servicios</b>: realización y actualización del registro de prestadores de servicios turísticos, categorización y jerarquización, vigilancia del cumplimiento de requisitos acordes con la calidad del servicio ofrecido.
                 td <b>5.</b> Facilitación de los medios para alcanzar una mayor formación de la fuerza laboral de las empresas asociadas.
                 td <b>5.</b> Comunicación de intereses sectoriales (empresariales, sindicales y profesionales).
@@ -100,7 +100,7 @@
                 td <b>6. Capacitación</b>: programas y acciones puntuales destinados a identificar y satisfacer necesidades de formación, perfeccionamiento o especialización, dirigidas tanto para el personal como para los empresarios del sector turístico.
                 td <b>6.</b> Fijación y vigilancia de estándares adecuados para instalaciones y servicios de sus miembros, sancionando a los que se alejen de la normativa vigente.
                 td 
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>7. Asistencia técnica</b>: intervención de equipos especializados pertenecientes a organismos oficiales, para resolver problemas técnicos concretos que afectan el funcionamiento de algún sector de la empresa privada o de alguna parte del espacio turístico.
                 td <b>7.</b> Patrocinio de acontecimientos especiales, por sí mismas o en cooperación con las administraciones turístico-recreativas.
                 td 
@@ -108,7 +108,7 @@
                 td <b>8. Planificación e investigación</b>: vinculado con la asistencia técnica, es el resultado de un equipo de trabajo especializado, para definir las metas de desarrollo del sector y las estrategias, programas y acciones que conduzcan a su cumplimiento. Alcanza la definición de medidas para explotar y preservar los atractivos turísticos, racionalizar el crecimiento de la planta turística, promover el desarrollo armónico del espacio turístico e incrementar la demanda.
                 td <b>8.</b> Participación en la promoción de un turismo sostenible practicado por las empresas turístico-recreativas.
                 td 
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>9. Administración de servicios</b>: acciones oficiales orientadas a operar los servicios turísticos que dependen de su jurisdicción.
                 td 
                 td 
@@ -116,7 +116,7 @@
                 td <b>10. Recreación</b>: servicios públicos destinados a la población local o turística, para el uso y disfrute de su tiempo libre.
                 td 
                 td 
-              tr
+              tr(style="background-color: #F6F6F6")
                 td <b>11. Recaudación</b>: atribución para establecer imposiciones, tributos y otros aportes del sector privado para conformar los recursos económicos del sector oficial.
                 td 
                 td 
@@ -329,7 +329,7 @@
                 th A la población local
                 th A las instituciones públicas y/o privadas
             tbody
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -371,7 +371,7 @@
                     li 
                       i.lista-ul__vineta
                       p.mb-0 Participar de estudios estadísticos sobre la situación y coyuntura del sector turístico.
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -413,7 +413,7 @@
                     li 
                       i.lista-ul__vineta
                       p.mb-0 Fomentar la cohesión de los distintos a través de rutas turísticas temáticas.
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -452,7 +452,7 @@
                       p.mb-0 Entrega de material turístico del destino para los ciudadanos locales.
                 td
                   
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -479,7 +479,7 @@
                   
                 td
                   
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -503,7 +503,7 @@
                   
                 td
                   
-              tr
+              tr(style="background-color: #F6F6F6")
                 td 
                   ul.lista-ul
                     li 
@@ -536,10 +536,10 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-xl-3.col-lg-3.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img17.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card.BG04
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -548,10 +548,10 @@
             p.text-center.mb-0.px-2 Lugares o experiencias que atraen a los turistas. Pueden ser naturales (playas o montañas) o culturales (monumentos o festivales).
 
       .col-xl-3.col-lg-3.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img18.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card.BG04
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -560,10 +560,10 @@
             p.text-center.mb-0.px-0 Incluye las instalaciones necesarias para el turismo, como hoteles, restaurantes, transporte (aeropuertos, carreteras) y servicios públicos.
 
       .col-xl-3.col-lg-3.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img19.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card.BG04
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -572,10 +572,10 @@
             p.text-center.mb-0.px-2 Comprende las actividades y servicios ofrecidos a los turistas, como guías, agencias de viajes, actividades recreativas y servicios de información.
 
       .col-xl-3.col-lg-3.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img20.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card.BG04
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3

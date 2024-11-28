@@ -174,6 +174,30 @@
             figure
               img(src='@/assets/curso/temas/tema3/img16.png', alt='Imagen decorativa')
 
+    .row.justify-content-center(data-aos="flip-up")
+      .col-lg-10.col-12
+        PasosA.color-acento-contenido.mb-5(tipo="l")
+          div
+            h4 Planeación y diseño del esquema de mapeo
+
+          div
+            h4 Mapeo  de espacios de discusión  en territorio 
+
+          div
+            h4 Identificación  de actores relevantes 
+
+          div
+            h4 Clasificación de actores según nivel de interés.
+
+          div
+            h4 Elaboración de diagrama o mapa de relaciones.
+
+          div
+            h4 Propuesta  de estrategias  de  involucramiento.
+          
+          div
+            h4 Elaboración del plan de acción para aplicar estrategias de involucramiento 
+
     p.mb-5(data-aos="fade-left") A continuación, se presentan los pasos para elaborar un diagrama o mapa de actores:
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")

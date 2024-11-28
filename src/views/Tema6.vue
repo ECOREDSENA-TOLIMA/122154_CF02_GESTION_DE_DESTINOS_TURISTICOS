@@ -162,7 +162,7 @@
     p.mb-5(data-aos="fade-left") Este modelo promueve una transformación social sostenible en los territorios, con un enfoque equitativo a largo plazo. Se basa en la organización y participación activa de sus miembros, quienes trabajan hacia objetivos comunes surgidos de las necesidades locales. Además, impulsa la creación de herramientas que detecten las necesidades individuales y colectivas, con el fin de producir bienes que favorezcan el desarrollo sostenible. Como parte de este proceso, se valora positivamente el intercambio económico sin dinero, evocando el trueque como alternativa y fomentando el uso de moneda local.
 
     separador
-    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+    #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Convocatorias de participación comunitaria
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
@@ -174,7 +174,7 @@
           p La convocatoria es un llamado público dirigido a la comunidad en general, con el objetivo de fomentar una participación equitativa en diversas oportunidades que se ofrecen para los territorios. Este proceso culmina con un conjunto de responsabilidades para aquellos que resultan seleccionados. 
         p En el ámbito del turismo, las convocatorias surgen como una estrategia para promover la apropiación y el empoderamiento de los habitantes locales en temas relacionados con el sector. Este tipo de convocatorias, dirigidas a las organizaciones de base comunitaria, busca fortalecer la cadena de valor del turismo mediante proyectos y emprendimientos que requieren una serie de documentos, y en algunos casos trabajos de prueba, los cuales son evaluados durante un periodo determinado.
 
-    .tarjeta.tarjeta--BG05.p-4.mb-5(data-aos="flip-up")
+    .tarjeta.tarjeta--BG05.px-md-5.px-4(data-aos="flip-up")
       p.mb-4 El propósito de estas convocatorias es mejorar la prestación del servicio turístico local, empleando buenas prácticas de sostenibilidad y ofreciendo estímulos y activos productivos que contribuyan al desarrollo de planes de trabajo. Estos planes buscan fortalecer las habilidades y capacidades de las personas encargadas de atender a los turistas. 
       p.mb-5 Las convocatorias de participación comunitaria se clasifican según el procedimiento de selección en las siguientes categorías:
       .row.justify-content-center.align-items-center
@@ -223,7 +223,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema6/img16.svg' alt='AvatarTop')
-          .tarjeta.color5(style= "width: 100%")
+          .tarjeta.color2(style= "width: 100%")
             .p-4
               h2 Banco de proyectos
               p Dirigida a fortalecer e incentivar iniciativas productivas presentadas por cooperativas, fondos de empleados o asociaciones mutuales dentro de las comunidades.
@@ -231,7 +231,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema6/img17.svg' alt='AvatarTop')
-          .tarjeta.color5(style= "width: 100%")
+          .tarjeta.color2(style= "width: 100%")
             .p-4
               h2 Fondo de incentivos
               p Se otorgan incentivos para fortalecer prácticas económicas, ambientales y sociales dentro de las comunidades.

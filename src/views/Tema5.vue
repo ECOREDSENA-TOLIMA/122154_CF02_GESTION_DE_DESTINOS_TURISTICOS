@@ -91,7 +91,7 @@
 
     p.mb-5(data-aos="fade-left") Los criterios mencionados son esenciales para garantizar el éxito y la sostenibilidad de las organizaciones comunitarias. Cada uno de ellos contribuye a crear un marco de acción que promueve la participación activa, la cohesión social y el beneficio colectivo. A continuación, se detallan los efectos de estos criterios: 
 
-    .tarjeta.tarjeta--BG10.p-md-5.p-4.mb-5(data-aos="flip-up")
+    .tarjeta.tarjeta--BG11.p-md-5.p-4.mb-5(data-aos="flip-up")
       SlyderA(tipo="b")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-1.order-2
@@ -193,13 +193,15 @@
     p.mb-5(data-aos="fade-left") Un ejemplo destacado de modelo de organización comunitaria es la Junta de Acción Comunal del barrio Santa Bárbara, en la comuna Cinco de Santiago de Cali. Al ser una organización de primer grado, esta junta fomenta la participación activa de la comunidad y promueve la gobernanza local en temas fundamentales como la identificación de necesidades y la creación de estrategias para resolver las problemáticas presentes.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-7.col-12.order-lg-1.order-2
-        .cajon.cajon.color-secundario.p-4.mb-3
-          p Como organización, se caracteriza por respetar la diversidad de opiniones de sus miembros, lo que se refleja en las decisiones cotidianas. Además, garantiza la divulgación y comunicación de información clave, asegurando que todos los miembros tengan acceso a los mismos datos, lo que fomenta una participación equitativa en la toma de decisiones. La junta también promueve un espacio de colaboración y diálogo entre los vecinos para abordar de manera conjunta las problemáticas del barrio, fortaleciendo los lazos sociales y generando un compromiso colectivo.
-        p En este sentido, la organización no solo se dedica a resolver problemas inmediatos, sino que también fomenta un sentido de pertenencia y de responsabilidad compartida. De esta manera, la Junta de Acción Comunal contribuye al bienestar común y a la búsqueda de soluciones sostenibles a los desafíos locales, con un enfoque en el desarrollo integral de la comunidad.
-      .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-        figure
-          img(src='@/assets/curso/temas/tema5/img18.png', alt='Imagen decorativa')
+      .col-lg-10.col-12
+        .row.justify-content-center
+          .col-lg-7.col-12.order-lg-1.order-2
+            .cajon.cajon.color-secundario.p-4.mb-3
+              p Como organización, se caracteriza por respetar la diversidad de opiniones de sus miembros, lo que se refleja en las decisiones cotidianas. Además, garantiza la divulgación y comunicación de información clave, asegurando que todos los miembros tengan acceso a los mismos datos, lo que fomenta una participación equitativa en la toma de decisiones. La junta también promueve un espacio de colaboración y diálogo entre los vecinos para abordar de manera conjunta las problemáticas del barrio, fortaleciendo los lazos sociales y generando un compromiso colectivo.
+            p En este sentido, la organización no solo se dedica a resolver problemas inmediatos, sino que también fomenta un sentido de pertenencia y de responsabilidad compartida. De esta manera, la Junta de Acción Comunal contribuye al bienestar común y a la búsqueda de soluciones sostenibles a los desafíos locales, con un enfoque en el desarrollo integral de la comunidad.
+          .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema5/img18.png', alt='Imagen decorativa')
 
 </template>
 
