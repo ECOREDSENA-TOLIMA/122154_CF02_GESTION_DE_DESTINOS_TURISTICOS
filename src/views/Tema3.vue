@@ -49,7 +49,7 @@
         h4.text-center Administraciones públicas
         p.text-center Entidades públicas que se relacionan de manera directa o indirecta con el usuario.
 
-    p.mb-5(data-aos="fade-left") A continuación, se presenta un esquema grafico de la ubicación de cada uno de los actores:
+    p.mb-5(data-aos="fade-left") A continuación, se presenta un esquema gráfico de la ubicación de cada uno de los actores:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -206,7 +206,7 @@
           .row.justify-content-center.align-items-center(titulo="1")
             .col-lg-9.col-12.order-lg-2.order-2
               h4 Definir cuestión central
-              P Establecer el tema que se desea abordar en una fase especifica del proyecto.
+              P Establecer el tema que se desea abordar en una fase específica del proyecto.
           
             .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
@@ -215,7 +215,7 @@
           .row.justify-content-center.align-items-center(titulo="2")
             .col-lg-9.col-12.order-lg-2.order-2
               h4 Identificar los actores
-              P Determinar quienes son los involucrados clave, primarios, secundarios y de veto.
+              P Determinar quiénes son los involucrados clave, primarios, secundarios y de veto.
           
             .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure

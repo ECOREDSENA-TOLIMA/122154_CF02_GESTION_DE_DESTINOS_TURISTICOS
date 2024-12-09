@@ -79,7 +79,7 @@
               tr(style="background-color: #F6F6F6")
                 td <b>1. Información</b>: publicación y difusión de datos sobre atractivos y servicios turísticos, brindada en forma directa o indirecta a los turistas.
                 td <b>1.</b> Representación de los asociados en consejos o comisiones de turismo y recreación.
-                td <b>1.</b> Defensa del medio ambiente y protección de los escenarios prístinos de flora y fauna, a través de proyectos de conservación y desarrollo basados en la comunidad brindando fuerte apoyo al turismo sostenible.
+                td <b>1.</b> Defensa del medio ambiente y protección de los escenarios prístinos de flora y fauna, a través de proyectos de conservación y desarrollo basados en la comunidad, brindando fuerte apoyo al turismo sostenible.
               tr
                 td <b>2. Facilitación</b>: disposiciones, reglamentos, acuerdos y cualquier otro tipo de medidas dispuestas por los organismos públicos, tendientes a agilizar el ingreso, desplazamiento y egreso de los turistas y sus equipajes, así como a contribuir a incrementar el consumo de los servicios turísticos disponibles.
                 td <b>2.</b> Formulación de recomendaciones consensuadas con la administración turística sobre mejoras a implementar en el sector turístico-recreativo.
@@ -267,14 +267,19 @@
             img(src='@/assets/curso/temas/tema1/img15.svg', alt='En la figura 4, se presenta la estructura organizacional del Instituto Distrital de Turismo (IDT) en Bogotá, incluyendo todas las dependencias que la componen.')
             figcaption Nota. Adaptado de Instituto Distrital de Turismo – IDT (2022). Estructura Organizacional del Instituto Distrital de Turismo – IDT. Alcaldía Mayor de Bogotá Distrito Capital. Tomado de https://www.idt.gov.co/es/estructura-organica
 
-    .row.justify-content-center(data-aos="flip-up")
+    //- .row.justify-content-center(data-aos="flip-up")
+    //-   .col-lg-10.col-12
+    //-     .bloque-texto-f.color-primario.pt-4.px-5.mb-5
+    //-       .bloque-texto-f__comillas
+    //-         i.fas.fa-quote-left
+    //-         i.fas.fa-quote-right
+    //-       p.text-bold.bloque-texto-f__texto.text-center - Según Miralbell (2007)
+    //-       p.text-regular.bloque-texto-f__texto.text-center  La oficina de turismo “es un centro de servicios para el turismo en el destino”, y conforme a Ponn (1993), “las oficinas de turismo financiadas por la administración representan y promocionan a los destinos en el mercado”, siendo fundamental el papel del ente administrador en el servicio de acogida y promoción del destino.
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
-        .bloque-texto-f.color-primario.pt-4.px-5.mb-5
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left
-            i.fas.fa-quote-right
-          p.text-bold.bloque-texto-f__texto.text-center - Según Miralbell (2007)
-          p.text-regular.bloque-texto-f__texto.text-center  La oficina de turismo “es un centro de servicios para el turismo en el destino”, y conforme a Ponn (1993), “las oficinas de turismo financiadas por la administración representan y promocionan a los destinos en el mercado”, siendo fundamental el papel del ente administrador en el servicio de acogida y promoción del destino.
+        .cajon.cajon1.color-primario.p-4.mb-3
+          p.mb-0 Según Miralbell (2007), la oficina de turismo “es un centro de servicios para el turismo en el destino”, y conforme a Ponn (1993), “las oficinas de turismo financiadas por la administración representan y promocionan a los destinos en el mercado”, siendo fundamental el papel del ente administrador en el servicio de acogida y promoción del destino.
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -460,7 +465,7 @@
                   ul.lista-ul
                     li 
                       i.lista-ul__vineta
-                      p.mb-0 Colaboración en la organización de actividades promovidos por agentes locales.
+                      p.mb-0 Colaboración en la organización de actividades promovidas por agentes locales.
                 td
                  
               tr
@@ -528,7 +533,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.5 Estructura turística
 
-    p.mb-5(data-aos="fade-left") La estructura turística es un conjunto de empresas, instalaciones y elementos físicos que se encuentran en un territorio posibilitando el máximo de aprovechamiento en la prestación de servicios de orden turístico. También, se reconoce como el conjunto de recursos que incluyen atractivos, servicios y actividades turísticas en un destino. Se desarrollan sobre la infraestructura turística local comprendiendo dentro de los componentes básico el alojamiento y los restaurantes. Y como componentes complementarios las instalaciones recreativas, agencias de viajes, oficinas de turismo, puntos de información turística y empresas de transporte articulados con el comercio local junto con el definido como comercio turístico.
+    p.mb-5(data-aos="fade-left") La estructura turística es un conjunto de empresas, instalaciones y elementos físicos que se encuentran en un territorio, posibilitando el máximo de aprovechamiento en la prestación de servicios de orden turístico. También, se reconoce como el conjunto de recursos que incluyen atractivos, servicios y actividades turísticas en un destino. Se desarrollan sobre la infraestructura turística local, comprendiendo dentro de los componentes básicos el alojamiento y los restaurantes. Y como componentes complementarios las instalaciones recreativas, agencias de viajes, oficinas de turismo, puntos de información turística y empresas de transporte articulados con el comercio local junto con el definido como comercio turístico.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-xl-3.col-lg-3.col-sm-10.col-md-8.mb-xl-0.mb-4(data-aos="fade-right")
@@ -577,7 +582,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Recursos humanos
-            p.text-center.mb-0.px-2 Personal que trabaja en el sector turístico, desde guías y personal hotelero hasta Trabajadores en agencias de viajes.
+            p.text-center.mb-0.px-2 Personal que trabaja en el sector turístico, desde guías y personal hotelero hasta trabajadores en agencias de viajes.
 
     p.mb-5(data-aos="fade-left") Las características que definen la estructura turística son:
 

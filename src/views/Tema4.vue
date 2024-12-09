@@ -86,7 +86,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.col-12.mb-md-0.order-lg-2.order-2
             LineaTiempoD.color-acento-botones.especial
-              p(numero="1" titulo="Participación pasiva") Implica una disposición voluntaria ante la información recibida, aunque con bajo interés y compromiso, lo que resulta en una rápida pérdida de motivación.
+              p(numero="1" titulo="Participación pasiva") Implica una disposición voluntaria hacia la información recibida, pero con un bajo nivel de interés y compromiso, lo que puede llevar a una rápida pérdida de motivación.
               
               p(numero="2" titulo="Participación mediante la consulta") Permite a los habitantes discutir temas de interés comunitario, contribuyendo con sus opiniones en la toma de decisiones.
               
