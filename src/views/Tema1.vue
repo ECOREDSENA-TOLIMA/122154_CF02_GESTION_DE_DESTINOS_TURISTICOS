@@ -465,7 +465,7 @@
                   ul.lista-ul
                     li 
                       i.lista-ul__vineta
-                      p.mb-0 Colaboración en la organización de actividades promovidas por agentes locales.
+                      p.mb-0 Colaboración en la organización de actividades, promovidas por agentes locales.
                 td
                  
               tr
