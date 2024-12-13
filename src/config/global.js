@@ -486,7 +486,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
